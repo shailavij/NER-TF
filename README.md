@@ -3,7 +3,10 @@
 NER TF 2.0 implementation for CoNLL-2003 NER dataset
 
 Code Cloned from https://github.com/bhuvanakundumani/NER_tensorflow2.2.0
-'data' folder has the dataset. Model output files will be written in the 'model_ouput; directory. 
+
+'data' folder has the dataset. 
+
+Model output files will be written in the 'model_ouput; directory. 
 
 To train the model
 ```bash
